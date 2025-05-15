@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AjaxProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4c2bc5501d9e190effd36bf23ee7860674ae9a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c1c697d9309cad956e78af1866c7d0c95d66c1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("AjaxProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AjaxProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
