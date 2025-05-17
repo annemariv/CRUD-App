@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\annem\\OneDrive\\Documents\\TTHK\\Veebiarendus\\CRUD-App\\AjaxProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D5B5A78-32E6-41AF-B089-516C4AF2C329}|AjaxProject.csproj|c:\\users\\annem\\onedrive\\documents\\tthk\\veebiarendus\\crud-app\\ajaxproject\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D5B5A78-32E6-41AF-B089-516C4AF2C329}|AjaxProject.csproj|solutionrelative:views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3D5B5A78-32E6-41AF-B089-516C4AF2C329}|AjaxProject.csproj|c:\\users\\annem\\onedrive\\documents\\tthk\\veebiarendus\\crud-app\\ajaxproject\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B5A78-32E6-41AF-B089-516C4AF2C329}|AjaxProject.csproj|solutionrelative:controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B5A78-32E6-41AF-B089-516C4AF2C329}|AjaxProject.csproj|c:\\users\\annem\\onedrive\\documents\\tthk\\veebiarendus\\crud-app\\ajaxproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D5B5A78-32E6-41AF-B089-516C4AF2C329}|AjaxProject.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D5B5A78-32E6-41AF-B089-516C4AF2C329}|AjaxProject.csproj|c:\\users\\annem\\onedrive\\documents\\tthk\\veebiarendus\\crud-app\\ajaxproject\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -15,12 +19,8 @@
       "RelativeMoniker": "D:0:0:{3D5B5A78-32E6-41AF-B089-516C4AF2C329}|AjaxProject.csproj|solutionrelative:views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D5B5A78-32E6-41AF-B089-516C4AF2C329}|AjaxProject.csproj|c:\\users\\annem\\onedrive\\documents\\tthk\\veebiarendus\\crud-app\\ajaxproject\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B5A78-32E6-41AF-B089-516C4AF2C329}|AjaxProject.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B5A78-32E6-41AF-B089-516C4AF2C329}|AjaxProject.csproj|c:\\users\\annem\\onedrive\\documents\\tthk\\veebiarendus\\crud-app\\ajaxproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D5B5A78-32E6-41AF-B089-516C4AF2C329}|AjaxProject.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3D5B5A78-32E6-41AF-B089-516C4AF2C329}|AjaxProject.csproj|c:\\users\\annem\\onedrive\\documents\\tthk\\veebiarendus\\crud-app\\ajaxproject\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D5B5A78-32E6-41AF-B089-516C4AF2C329}|AjaxProject.csproj|solutionrelative:views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D5B5A78-32E6-41AF-B089-516C4AF2C329}|AjaxProject.csproj|c:\\users\\annem\\onedrive\\documents\\tthk\\veebiarendus\\crud-app\\ajaxproject\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -42,21 +42,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\annem\\OneDrive\\Documents\\TTHK\\Veebiarendus\\CRUD-App\\AjaxProject\\Views\\Customer\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Customer\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\annem\\OneDrive\\Documents\\TTHK\\Veebiarendus\\CRUD-App\\AjaxProject\\Views\\Customer\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Customer\\Edit.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAADgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T12:08:55.181Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -64,53 +51,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\annem\\OneDrive\\Documents\\TTHK\\Veebiarendus\\CRUD-App\\AjaxProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\annem\\OneDrive\\Documents\\TTHK\\Veebiarendus\\CRUD-App\\AjaxProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T07:34:00.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\annem\\OneDrive\\Documents\\TTHK\\Veebiarendus\\CRUD-App\\AjaxProject\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\annem\\OneDrive\\Documents\\TTHK\\Veebiarendus\\CRUD-App\\AjaxProject\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "Controllers\\CountryController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:33:04.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\annem\\OneDrive\\Documents\\TTHK\\Veebiarendus\\CRUD-App\\AjaxProject\\Views\\Customer\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\annem\\OneDrive\\Documents\\TTHK\\Veebiarendus\\CRUD-App\\AjaxProject\\Views\\Customer\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Delete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T06:52:07.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\annem\\OneDrive\\Documents\\TTHK\\Veebiarendus\\CRUD-App\\AjaxProject\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
               "ToolTip": "C:\\Users\\annem\\OneDrive\\Documents\\TTHK\\Veebiarendus\\CRUD-App\\AjaxProject\\wwwroot\\js\\site.js",
               "RelativeToolTip": "wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-05-15T12:05:36.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\annem\\OneDrive\\Documents\\TTHK\\Veebiarendus\\CRUD-App\\AjaxProject\\Views\\Customer\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Customer\\Create.cshtml",
               "ToolTip": "C:\\Users\\annem\\OneDrive\\Documents\\TTHK\\Veebiarendus\\CRUD-App\\AjaxProject\\Views\\Customer\\Create.cshtml",
               "RelativeToolTip": "Views\\Customer\\Create.cshtml",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAMwGsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAMwHoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-15T11:48:17.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\annem\\OneDrive\\Documents\\TTHK\\Veebiarendus\\CRUD-App\\AjaxProject\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\annem\\OneDrive\\Documents\\TTHK\\Veebiarendus\\CRUD-App\\AjaxProject\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "Controllers\\CustomerController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCcAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T11:42:07.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\annem\\OneDrive\\Documents\\TTHK\\Veebiarendus\\CRUD-App\\AjaxProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\annem\\OneDrive\\Documents\\TTHK\\Veebiarendus\\CRUD-App\\AjaxProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAADwvycAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T11:10:50.787Z",
               "EditorCaption": ""
             },
             {
@@ -123,8 +123,7 @@
               "RelativeToolTip": "Views\\Customer\\Index.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T11:46:20.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T11:46:20.907Z"
             },
             {
               "$type": "Document",
@@ -136,21 +135,19 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAcwAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T10:39:48.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T10:39:48.272Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AjaxProject",
+              "Title": "AjaxProject.csproj",
               "DocumentMoniker": "C:\\Users\\annem\\OneDrive\\Documents\\TTHK\\Veebiarendus\\CRUD-App\\AjaxProject\\AjaxProject.csproj",
               "RelativeDocumentMoniker": "AjaxProject.csproj",
               "ToolTip": "C:\\Users\\annem\\OneDrive\\Documents\\TTHK\\Veebiarendus\\CRUD-App\\AjaxProject\\AjaxProject.csproj",
               "RelativeToolTip": "AjaxProject.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-15T10:55:40.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T10:55:40.41Z"
             }
           ]
         }

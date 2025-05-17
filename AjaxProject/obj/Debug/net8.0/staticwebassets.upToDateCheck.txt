@@ -1,8 +1,8 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\Images\f157c8ba-38e5-44d6-b2c8-06ff46a6d53f_noimage.png
 wwwroot\Images\f3dcb011-3b36-4e86-bcdb-9a294f2e8ea3_noimage.png
 wwwroot\Images\noimage.png
-wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
@@ -48,6 +48,8 @@ wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery-ajax-unobtrusive\jquery.unobtrusive-ajax.js
+wwwroot\lib\jquery-ajax-unobtrusive\jquery.unobtrusive-ajax.min.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
@@ -60,3 +62,4 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\js\site.js
